@@ -9,11 +9,15 @@ import java.util.Arrays;
  */
 public class Suanfa04 {
     public static void main(String[] args) {
-        int [] arr = new int []{12,4,432,11,3,67,45,89};
-        for (int i = 0; i <arr.length ; i++) {
+        int[] arr = new int[]{12, 4, 432, 11, 3, 67, 45, 89};
+        method(arr);
+    }
+
+    public static void method(int[] arr) {
+        for (int i = 0; i < arr.length; i++) {
             int find = i;
-            for (int j = i+1; j <arr.length ; j++) {
-                if(arr[j]< arr[find]){
+            for (int j = i + 1; j < arr.length; j++) {
+                if (arr[j] < arr[find]) {
                     find = j;
                 }
             }

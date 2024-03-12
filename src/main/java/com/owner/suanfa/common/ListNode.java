@@ -17,11 +17,11 @@ public class ListNode {
      */
     public static ListNode reverseList01(ListNode head) {
         ListNode a = null;
-        while(head!=null){
-            ListNode temp = head.next;
-            head.next = a;
-            a = head;
-            head = temp;
+        while (head != null) {
+            ListNode temp = head.next;//借助一个临时链表节点
+            head.next = a;//将摘出来的节点放到新的链表的上面
+            a = head;//将新链表置为刚组装好链表
+            head = temp;//最后将head置为新的链表，开启下次循环
         }
         return a;
     }

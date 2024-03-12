@@ -11,6 +11,12 @@ import java.util.Arrays;
  */
 public class Suanfa03 {
     public static void main(String[] args) {
+        method();
+    }
+
+
+
+    public static void method(){
         int [] arr = new int []{12,4,432,11,3,67,45,89};
         for (int i = 0; i < arr.length; i++) {
             for (int j = i+1; j <arr.length ; j++) {
