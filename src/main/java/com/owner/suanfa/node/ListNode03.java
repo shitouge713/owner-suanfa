@@ -28,10 +28,8 @@ public class ListNode03 {
             fast = fast.next;
             slow = slow.next;
         }
-
         // 删除第n个节点
         slow.next = slow.next.next;
-
         return dummy.next;
     }
 
@@ -42,7 +40,7 @@ public class ListNode03 {
         ListNode03 node3 = new ListNode03(3,node4);
         ListNode03 node2 = new ListNode03(2,node3);
         ListNode03 node1 = new ListNode03(1,node2);
-        System.out.println(removeNthFromEnd(node1,2));
+        System.out.println(removeNthFromEnd(node1,5));
     }
 
     @Override
