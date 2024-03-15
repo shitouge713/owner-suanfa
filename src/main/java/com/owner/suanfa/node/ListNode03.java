@@ -1,4 +1,4 @@
-package com.owner.suanfa.common;
+package com.owner.suanfa.node;
 
 /**
  * 删除链表的倒数第n个元素
@@ -6,26 +6,33 @@ package com.owner.suanfa.common;
 public class ListNode03 {
     int val;
     ListNode03 next;
+    ListNode03(int x) {
+        val = x;
+    }
     ListNode03(int x, ListNode03 node) {
         val = x;
         next = node;
     }
 
     public static ListNode03 removeNthFromEnd(ListNode03 head, int n) {
-        ListNode03 tail = head;
-        ListNode03 root = head;
-        int size;
-        for (size = 0; size <n && tail!=null; size++) {
-            tail = tail.next;
+        ListNode03 dummy = new ListNode03(0);
+        dummy.next = head;
+        ListNode03 fast = dummy;
+        ListNode03 slow = dummy;
+        // 让快指针先移动n+1步
+        for (int i = 0; i <= n; i++) {
+            fast = fast.next;
         }
-        if(size<n) return null;
-        if(tail==null) return root.next;
-        while(tail.next!=null){
-            tail = tail.next;
-            head = head.next;
+        // 快慢指针同时移动，直到快指针到达末尾
+        while (fast != null) {
+            fast = fast.next;
+            slow = slow.next;
         }
-        head.next = head.next.next;
-        return root;
+
+        // 删除第n个节点
+        slow.next = slow.next.next;
+
+        return dummy.next;
     }
 
 
@@ -40,7 +47,7 @@ public class ListNode03 {
 
     @Override
     public String toString() {
-        StringBuilder sb = new StringBuilder("ListNode02{");
+        StringBuilder sb = new StringBuilder("ListNode03{");
         sb.append("val='").append(val).append('\'');
         sb.append(", next='").append(next).append('\'');
         sb.append('}');
