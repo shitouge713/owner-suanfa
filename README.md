@@ -14,5 +14,9 @@
 7. 判断链表是否有环【ListNode02】
 8. 冒泡排序，两次for循环方式【Suanfa03】、选择排序【Suanfa04】
 9. 给定一个正整数,找到由相同数字组成的下一个刚好比该数字大的数字【String05】
-10. 
 ----------------------------------------------------
+8. 给你一个下标从 0 开始长度为 n 的整数数组 nums 和一个整数 target。 请你返回满足 0 <= i < j < n 且 nums[i] + nums[j] < target 的下标对 (i, j)(i,j) 的数目。
+      https://juejin.cn/post/7332390317559349298?utm_source=gold_browser_extension
+9. 给定一个 nn 叉树的根节点 rootroot ，返回 其节点值的后序遍历。 nn 叉树在输入中按层序遍历进行序列化表示，每组子节点由空值 null 分隔（请参见示例）。
+   https://juejin.cn/post/7327188195770351635
+10. 100Mb 的内存, 需要对 1 Gb 的数据进行排序 【ExternalSort】
