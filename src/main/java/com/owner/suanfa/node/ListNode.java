@@ -1,4 +1,4 @@
-package com.owner.suanfa.common;
+package com.owner.suanfa.node;
 
 /**
  * 链表的反转

@@ -13,20 +13,7 @@ package com.owner.suanfa.common;
 public class String03 {
     public static void main(String[] args) {
         String str = "123454321";
-        boolean flag = false;
-        int head = 0;
-        int tail = str.length() - 1;
-        if (str.length() < 1) {
-            return;
-        }
-        while (head < tail) {
-            if (str.charAt(head++) != str.charAt(tail--)) {
-                flag = false;
-                break;
-            }
-            flag = true;
-        }
-        System.out.println(flag);
+        method(str);
     }
 
 
