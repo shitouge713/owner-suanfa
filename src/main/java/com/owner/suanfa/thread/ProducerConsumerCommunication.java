@@ -4,7 +4,7 @@ import java.util.concurrent.locks.Condition;
 import java.util.concurrent.locks.Lock;
 import java.util.concurrent.locks.ReentrantLock;
 
-public class SharedResources {
+public class ProducerConsumerCommunication {
     /**
      * 要被锁的对象
      */
@@ -23,7 +23,7 @@ public class SharedResources {
     static Integer integer = 0;
 
     public static void main(String[] args) {
-        SharedResources resources = new SharedResources();
+        ProducerConsumerCommunication resources = new ProducerConsumerCommunication();
         Thread t1 = new Thread(new ConditionProduce(resources));
         Thread t2 = new Thread(new ConditionConsumer(resources));
         //Thread t3 = new Thread(new ConditionConsumer01(resources));

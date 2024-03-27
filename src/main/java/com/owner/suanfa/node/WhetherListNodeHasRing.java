@@ -3,16 +3,16 @@ package com.owner.suanfa.node;
 /**
  * 判断链表是否有环
  */
-public class ListNode02 {
+public class WhetherListNodeHasRing {
     int val;
-    ListNode02 next;
+    WhetherListNodeHasRing next;
 
-    ListNode02(int x, ListNode02 node) {
+    WhetherListNodeHasRing(int x, WhetherListNodeHasRing node) {
         val = x;
         next = node;
     }
 
-    public static boolean hasLoop3(ListNode02 node) {
+    public static boolean hasLoop3(WhetherListNodeHasRing node) {
         return true;
     }
 
@@ -24,12 +24,12 @@ public class ListNode02 {
      * @param head
      * @return
      */
-    public static boolean hasLoop2(ListNode02 head) {
+    public static boolean hasLoop2(WhetherListNodeHasRing head) {
         if (head == null || head.next == null) {
             return false;
         }
-        ListNode02 slow = head;
-        ListNode02 fast = head.next;
+        WhetherListNodeHasRing slow = head;
+        WhetherListNodeHasRing fast = head.next;
         while (slow != fast) {
             //如果快的为null或快的next为null，表示没有环
             if (fast == null || fast.next == null) {
@@ -44,11 +44,11 @@ public class ListNode02 {
     }
 
     public static void main(String[] args) {
-        ListNode02 node5 = new ListNode02(5, null);
-        ListNode02 node4 = new ListNode02(4, node5);
-        ListNode02 node3 = new ListNode02(3, node4);
-        ListNode02 node2 = new ListNode02(2, node3);
-        ListNode02 node1 = new ListNode02(1, node2);
+        WhetherListNodeHasRing node5 = new WhetherListNodeHasRing(5, null);
+        WhetherListNodeHasRing node4 = new WhetherListNodeHasRing(4, node5);
+        WhetherListNodeHasRing node3 = new WhetherListNodeHasRing(3, node4);
+        WhetherListNodeHasRing node2 = new WhetherListNodeHasRing(2, node3);
+        WhetherListNodeHasRing node1 = new WhetherListNodeHasRing(1, node2);
         node5.next = node3;
         System.out.println(hasLoop2(node1));
     }

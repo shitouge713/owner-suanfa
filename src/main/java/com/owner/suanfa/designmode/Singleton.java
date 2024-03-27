@@ -1,4 +1,4 @@
-package com.owner.suanfa.common;
+package com.owner.suanfa.designmode;
 
 /**
  * 双重检测单例模式

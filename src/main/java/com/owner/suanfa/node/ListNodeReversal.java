@@ -3,10 +3,10 @@ package com.owner.suanfa.node;
 /**
  * 链表的反转
  */
-public class ListNode {
+public class ListNodeReversal {
     int val;
-    ListNode next;
-    ListNode(int x,ListNode node) {
+    ListNodeReversal next;
+    ListNodeReversal(int x, ListNodeReversal node) {
         val = x;
         next = node;
     }
@@ -15,10 +15,10 @@ public class ListNode {
      * @param head
      * @return
      */
-    public static ListNode reverseList01(ListNode head) {
-        ListNode a = null;
+    public static ListNodeReversal reverseList01(ListNodeReversal head) {
+        ListNodeReversal a = null;
         while (head != null) {
-            ListNode temp = head.next;//借助一个临时链表节点
+            ListNodeReversal temp = head.next;//借助一个临时链表节点
             head.next = a;//将摘出来的节点放到新的链表的上面
             a = head;//将新链表置为刚组装好链表
             head = temp;//最后将head置为新的链表，开启下次循环
@@ -30,23 +30,23 @@ public class ListNode {
      * @param head
      * @return
      */
-    public static ListNode reverseList02(ListNode head) {
+    public static ListNodeReversal reverseList02(ListNodeReversal head) {
         if(head==null||head.next ==null){
             return head;
         }
-        ListNode prev = reverseList02(head.next);
+        ListNodeReversal prev = reverseList02(head.next);
         head.next.next = head;
         head.next = null;
         return prev;
     }
 
     public static void main(String[] args) {
-        ListNode node5 = new ListNode(5,null);
-        ListNode node4 = new ListNode(4,node5);
-        ListNode node3 = new ListNode(3,node4);
-        ListNode node2 = new ListNode(2,node3);
-        ListNode node1 = new ListNode(1,node2);
-        ListNode rever = reverseList02(node1);
+        ListNodeReversal node5 = new ListNodeReversal(5,null);
+        ListNodeReversal node4 = new ListNodeReversal(4,node5);
+        ListNodeReversal node3 = new ListNodeReversal(3,node4);
+        ListNodeReversal node2 = new ListNodeReversal(2,node3);
+        ListNodeReversal node1 = new ListNodeReversal(1,node2);
+        ListNodeReversal rever = reverseList02(node1);
         System.out.println(rever.toString());
     }
     @Override

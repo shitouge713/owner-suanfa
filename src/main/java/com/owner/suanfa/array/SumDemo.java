@@ -1,4 +1,4 @@
-package com.owner.suanfa.common;
+package com.owner.suanfa.array;
 
 import java.util.Arrays;
 import java.util.HashMap;

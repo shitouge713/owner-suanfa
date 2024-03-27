@@ -1,9 +1,12 @@
-package com.owner.suanfa.common;
+package com.owner.suanfa.string;
+
+import java.util.ArrayList;
+import java.util.List;
 
 /**
- * 实现字符串的反转
+ * 字符串的反转/数字的反转
  */
-public class String01 {
+public class StringInversion {
     public static void main(String[] args) {
         method13("123213123123");
     }
@@ -55,6 +58,27 @@ public class String01 {
             end--;
         }
         System.out.println(arr);
+    }
+
+    public static int method2(Integer target) {
+        List<Integer> list = new ArrayList<>();
+        String result = "";
+        if (target > 0) {
+            while (target > 0) {
+                list.add(target % 10);
+                target = target / 10;
+            }
+        } else {
+            while (target < 0) {
+                list.add(-target % 10);
+                target = target / 10;
+            }
+            result = "-";
+        }
+        for (int i = 0; i < list.size(); i++) {
+            result += String.valueOf(list.get(i));
+        }
+        return Integer.valueOf(result);
     }
 
 }

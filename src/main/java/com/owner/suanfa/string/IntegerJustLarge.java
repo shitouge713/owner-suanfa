@@ -1,4 +1,4 @@
-package com.owner.suanfa.common;
+package com.owner.suanfa.string;
 
 import java.util.ArrayList;
 import java.util.Comparator;
@@ -13,7 +13,7 @@ import java.util.List;
  * 拿出来的数字和右侧剩余的数字放一起，由小到大排序
  * 将前面的和后面的拼接到一起即可
  */
-public class String05 {
+public class IntegerJustLarge {
     public static int getNextBigger(int num) {
         int numLength = Integer.toString(num).length();
         //如果是负数或者数字位数为1，那么直接返回-1，代表不存在需要找的数字

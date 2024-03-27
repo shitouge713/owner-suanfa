@@ -1,4 +1,4 @@
-package com.owner.suanfa.common;
+package com.owner.suanfa.string;
 
 
 /**
@@ -11,7 +11,7 @@ package com.owner.suanfa.common;
  * 时间复杂度：两次for循环+每个回文逻辑判断 = O（n*n*n）
  * @return
  */
-public class String04 {
+public class FindLargestPalindrome {
     public static void main(String[] args) {
         System.out.println(method02("aaaababacababaereraaa"));
     }

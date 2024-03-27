@@ -3,22 +3,22 @@ package com.owner.suanfa.node;
 /**
  * 删除链表的倒数第n个元素
  */
-public class ListNode03 {
+public class DeleteListNodeOfN {
     int val;
-    ListNode03 next;
-    ListNode03(int x) {
+    DeleteListNodeOfN next;
+    DeleteListNodeOfN(int x) {
         val = x;
     }
-    ListNode03(int x, ListNode03 node) {
+    DeleteListNodeOfN(int x, DeleteListNodeOfN node) {
         val = x;
         next = node;
     }
 
-    public static ListNode03 removeNthFromEnd(ListNode03 head, int n) {
-        ListNode03 dummy = new ListNode03(0);
+    public static DeleteListNodeOfN removeNthFromEnd(DeleteListNodeOfN head, int n) {
+        DeleteListNodeOfN dummy = new DeleteListNodeOfN(0);
         dummy.next = head;
-        ListNode03 fast = dummy;
-        ListNode03 slow = dummy;
+        DeleteListNodeOfN fast = dummy;
+        DeleteListNodeOfN slow = dummy;
         // 让快指针先移动n+1步
         for (int i = 0; i <= n; i++) {
             fast = fast.next;
@@ -35,11 +35,11 @@ public class ListNode03 {
 
 
     public static void main(String[] args) {
-        ListNode03 node5 = new ListNode03(5,null);
-        ListNode03 node4 = new ListNode03(4,node5);
-        ListNode03 node3 = new ListNode03(3,node4);
-        ListNode03 node2 = new ListNode03(2,node3);
-        ListNode03 node1 = new ListNode03(1,node2);
+        DeleteListNodeOfN node5 = new DeleteListNodeOfN(5,null);
+        DeleteListNodeOfN node4 = new DeleteListNodeOfN(4,node5);
+        DeleteListNodeOfN node3 = new DeleteListNodeOfN(3,node4);
+        DeleteListNodeOfN node2 = new DeleteListNodeOfN(2,node3);
+        DeleteListNodeOfN node1 = new DeleteListNodeOfN(1,node2);
         System.out.println(removeNthFromEnd(node1,5));
     }
 

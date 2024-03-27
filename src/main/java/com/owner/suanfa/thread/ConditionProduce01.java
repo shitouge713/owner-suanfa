@@ -4,33 +4,33 @@ import java.util.concurrent.TimeUnit;
 
 public class ConditionProduce01 implements Runnable {
 
-    SharedResources sharedResources;
+    ProducerConsumerCommunication producerConsumerCommunication;
 
-    public ConditionProduce01(SharedResources sharedResources) {
-        this.sharedResources = sharedResources;
+    public ConditionProduce01(ProducerConsumerCommunication producerConsumerCommunication) {
+        this.producerConsumerCommunication = producerConsumerCommunication;
     }
 
     @Override
     public void run() {
         while (true) {
-            sharedResources.lock.lock();
+            producerConsumerCommunication.lock.lock();
             try {
                 TimeUnit.MILLISECONDS.sleep(200);
             } catch (InterruptedException e) {
                 e.printStackTrace();
             }
-            while (sharedResources.integer >= 5) {
+            while (producerConsumerCommunication.integer >= 5) {
                 try {
                     System.out.println("00---资源已满，需要等待...");
-                    sharedResources.produce.await();
+                    producerConsumerCommunication.produce.await();
                 } catch (InterruptedException e) {
                     e.printStackTrace();
                 }
             }
             System.out.println("00---有线程消费，可以生产...");
-            sharedResources.integer++;
-            sharedResources.consumer.signalAll();
-            sharedResources.lock.unlock();
+            producerConsumerCommunication.integer++;
+            producerConsumerCommunication.consumer.signalAll();
+            producerConsumerCommunication.lock.unlock();
         }
     }
 }

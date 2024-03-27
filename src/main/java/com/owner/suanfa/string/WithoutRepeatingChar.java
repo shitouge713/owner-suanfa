@@ -1,4 +1,4 @@
-package com.owner.suanfa.common;
+package com.owner.suanfa.string;
 
 import java.util.HashMap;
 import java.util.Map;
@@ -17,25 +17,13 @@ import java.util.Map;
  *
  * @return
  */
-public class String02 {
+public class WithoutRepeatingChar {
     public static void main(String[] args) {
         String str = "aaabbb";
-        Map<Character, Integer> hash = new HashMap<>();
-        int result = 0;
-        int lastPosition = 0;
-        for (int i = 0; i < str.length(); i++) {
-            char c = str.charAt(i);
-            if (hash.containsKey(c)) {
-                lastPosition = hash.get(c);
-            }
-            //判断result，需要放在外面，每循环一次都需要判断一下
-            result = Math.max(result, i - lastPosition);
-            hash.put(c, i);
-        }
-        System.out.println(result);
+        withoutRepeatingCharMethod(str);
     }
 
-    public static void method01(String str) {
+    public static void withoutRepeatingCharMethod(String str) {
         Map<Character, Integer> hash = new HashMap<>();
         int result = 0;
         int lastPosition = 0;

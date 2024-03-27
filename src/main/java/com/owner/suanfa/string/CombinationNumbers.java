@@ -1,4 +1,4 @@
-package com.owner.suanfa.common;
+package com.owner.suanfa.string;
 
 import java.util.ArrayList;
 import java.util.List;
@@ -7,7 +7,7 @@ import java.util.List;
  * 有1、2、3、4个数字，能组成多少个互不相同且无重复数字的三位数？都是多少？
  */
 
-public class Suanfa01 {
+public class CombinationNumbers {
     public static void main(String[] args) {
         List<Integer> list = new ArrayList<Integer>();
         list.add(1);

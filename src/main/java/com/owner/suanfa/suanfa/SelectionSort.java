@@ -1,4 +1,4 @@
-package com.owner.suanfa.common;
+package com.owner.suanfa.suanfa;
 
 import java.util.Arrays;
 
@@ -7,13 +7,13 @@ import java.util.Arrays;
  * 同一个数组中选择最大（小）的元素的下标，放在数组的起始位，
  * 然后从第二位开始选择最大（小）的放在数组的第二位
  */
-public class Suanfa04 {
+public class SelectionSort {
     public static void main(String[] args) {
         int[] arr = new int[]{12, 4, 432, 11, 3, 67, 45, 89};
-        method(arr);
+        selectionSort(arr);
     }
 
-    public static void method(int[] arr) {
+    public static void selectionSort(int[] arr) {
         for (int i = 0; i < arr.length; i++) {
             int find = i;
             for (int j = i + 1; j < arr.length; j++) {

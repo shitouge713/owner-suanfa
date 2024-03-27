@@ -1,4 +1,4 @@
-package com.owner.suanfa.common;
+package com.owner.suanfa.string;
 
 
 /**
@@ -10,7 +10,7 @@ package com.owner.suanfa.common;
  *
  * @return
  */
-public class String03 {
+public class whetherReturnNumber {
     public static void main(String[] args) {
         String str = "123454321";
         method(str);

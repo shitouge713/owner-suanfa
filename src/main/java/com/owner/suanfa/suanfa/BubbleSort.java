@@ -1,4 +1,4 @@
-package com.owner.suanfa.common;
+package com.owner.suanfa.suanfa;
 
 import java.util.Arrays;
 
@@ -9,14 +9,14 @@ import java.util.Arrays;
  * 要注意的点：每趟要排序的起始元素是i+1，i表示元素下标
  * 比较判断的元素和基准数，如果比较成功，对换元素，每趟比较完成之后，会将最大值放入最后一位
  */
-public class Suanfa03 {
+public class BubbleSort {
     public static void main(String[] args) {
-        method();
+        bubbleSortMethod();
     }
 
 
 
-    public static void method(){
+    public static void bubbleSortMethod(){
         int [] arr = new int []{12,4,432,11,3,67,45,89};
         for (int i = 0; i < arr.length; i++) {
             for (int j = i+1; j <arr.length ; j++) {
