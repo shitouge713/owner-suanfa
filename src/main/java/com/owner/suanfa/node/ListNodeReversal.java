@@ -11,21 +11,6 @@ public class ListNodeReversal {
         next = node;
     }
     /**
-     * 非递归实现
-     * @param head
-     * @return
-     */
-    public static ListNodeReversal reverseList01(ListNodeReversal head) {
-        ListNodeReversal a = null;
-        while (head != null) {
-            ListNodeReversal temp = head.next;//借助一个临时链表节点
-            head.next = a;//将摘出来的节点放到新的链表的上面
-            a = head;//将新链表置为刚组装好链表
-            head = temp;//最后将head置为新的链表，开启下次循环
-        }
-        return a;
-    }
-    /**
      * 递归实现
      * @param head
      * @return
@@ -40,6 +25,22 @@ public class ListNodeReversal {
         return prev;
     }
 
+    /**
+     * 非递归实现
+     * @param head
+     * @return
+     */
+    public static ListNodeReversal reverseList01(ListNodeReversal head) {
+        ListNodeReversal a = null;
+        while (head != null) {
+            ListNodeReversal temp = head.next;//借助一个临时链表节点
+            head.next = a;//将摘出来的节点放到新的链表的上面
+            a = head;//将新链表置为刚组装好链表
+            head = temp;//最后将head置为新的链表，开启下次循环
+        }
+        return a;
+    }
+
     public static void main(String[] args) {
         ListNodeReversal node5 = new ListNodeReversal(5,null);
         ListNodeReversal node4 = new ListNodeReversal(4,node5);
@@ -48,13 +49,5 @@ public class ListNodeReversal {
         ListNodeReversal node1 = new ListNodeReversal(1,node2);
         ListNodeReversal rever = reverseList02(node1);
         System.out.println(rever.toString());
-    }
-    @Override
-    public String toString() {
-        StringBuilder sb = new StringBuilder("ListNode{");
-        sb.append("val='").append(val).append('\'');
-        sb.append(", next='").append(next).append('\'');
-        sb.append('}');
-        return sb.toString();
     }
 }
