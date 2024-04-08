@@ -23,7 +23,7 @@ import java.util.PriorityQueue;
  * 当您向PriorityQueue中添加元素时，它会根据元素的排序规则将元素放置在适当的位置，以确保队列中的元素始终保持有序状态。
  */
 @Slf4j
-public class ExternalSort {
+public class ExternalStrSort {
     public static void main(String[] args) throws IOException {
         externalSort("src/main/resources/input.txt", "src/main/resources/output.txt", 1000); // 1000 lines per chunk
     }

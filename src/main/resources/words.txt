@@ -1,202 +1,939 @@
-apple44 apple44 apple44 apple44 apple44 apple44 apple44 apple44 apple44 apple44
-cherry507 cherry507 cherry507 cherry507 cherry507 cherry507 cherry507 cherry507 cherry507
-cherry507 date674 apple864 kiwi477 date123 apple188 cherry243 lemon852 cherry986 apple385
-grape482 lemon615 banana115 banana608 cherry929 date259 apple474 date366 grape460 apple474
-kiwi229 banana989 kiwi60 grape61 elderberry21 elderberry560 banana371 apple57 cherry845 date989
-honeydew363 honeydew203 lemon649 lemon489 banana66 elderberry675 banana608 apple487 honeydew16 apple164
-cherry443 elderberry553 honeydew750 cherry362 elderberry203 lemon716 date376 apple570 honeydew669 elderberry312
-fig996 elderberry765 lemon521 lemon269 banana537 elderberry716 apple910 kiwi47 cherry16 lemon989
-honeydew888 honeydew99 lemon550 date308 apple498 elderberry743 elderberry199 apple250 kiwi396 grape517
-banana740 fig225 grape301 cherry736 honeydew157 date966 banana673 date20 banana88 elderberry157
-date923 date954 date616 apple504 cherry836 elderberry601 cherry469 grape600 cherry954 kiwi38
-honeydew602 fig281 kiwi305 fig420 fig617 kiwi250 banana309 cherry20 elderberry41 cherry74
-honeydew821 date918 date832 banana820 honeydew33 grape765 kiwi977 cherry51 elderberry517 elderberry767
-lemon639 lemon590 cherry779 cherry882 grape111 elderberry109 apple740 date976 banana906 grape977
-lemon711 lemon19 grape240 fig415 banana480 elderberry737 apple333 apple237 fig210 grape448
-cherry975 apple291 fig909 kiwi658 grape397 cherry596 kiwi872 honeydew770 apple937 date970
-kiwi959 elderberry53 date199 elderberry740 grape174 fig834 date251 date707 lemon627 cherry914
-fig238 lemon503 grape415 grape808 kiwi26 apple574 date909 elderberry832 elderberry280 honeydew790
-fig801 apple44 kiwi161 kiwi158 honeydew722 cherry98 lemon322 honeydew208 honeydew249 honeydew663
-banana469 kiwi121 grape591 elderberry735 lemon702 kiwi183 banana26 apple729 honeydew459 date305
-apple280 date799 lemon571 grape67 apple937 date659 elderberry800 apple367 grape849 banana267
-grape196 elderberry835 grape259 apple206 banana23 date665 lemon798 lemon724 cherry454 banana842
-lemon868 apple594 fig109 kiwi554 cherry126 date11 grape350 apple919 honeydew96 cherry383
-banana703 apple945 grape299 grape607 kiwi592 fig523 cherry541 date182 honeydew354 grape992
-apple706 elderberry825 grape680 grape294 date702 elderberry296 cherry185 banana910 apple208 cherry690
-kiwi635 banana529 fig561 honeydew732 fig329 elderberry996 honeydew354 cherry34 apple830 honeydew356
-date569 cherry428 banana296 banana747 fig436 fig362 banana765 date769 apple971 fig808
-cherry720 date970 honeydew218 grape706 kiwi356 elderberry702 cherry124 elderberry656 apple783 grape724
-banana224 apple75 grape992 apple141 fig832 fig838 banana818 apple151 honeydew317 elderberry501
-honeydew230 honeydew391 apple788 date904 kiwi548 lemon885 fig603 apple689 kiwi434 banana187
-honeydew379 banana585 lemon906 grape246 date479 apple854 honeydew112 date619 grape988 honeydew312
-cherry930 fig34 honeydew263 cherry303 fig798 elderberry886 elderberry945 honeydew862 honeydew374 honeydew739
-apple142 date139 banana327 lemon214 grape144 elderberry356 banana156 lemon760 grape976 cherry850
-kiwi431 cherry603 apple998 grape233 banana545 apple386 fig75 honeydew270 grape29 honeydew77
-cherry278 honeydew463 cherry848 kiwi562 honeydew555 elderberry118 banana939 apple477 fig645 elderberry702
-elderberry423 apple672 elderberry36 grape828 grape135 apple387 cherry455 elderberry838 lemon33 kiwi205
-grape180 cherry775 kiwi357 fig960 lemon722 lemon648 honeydew268 fig864 date989 date568
-elderberry145 banana164 fig218 apple61 fig867 honeydew411 banana86 banana584 fig600 fig152
-date362 apple973 banana83 cherry975 lemon305 grape208 honeydew671 grape5 date376 fig544
-apple810 grape66 honeydew917 grape863 apple418 elderberry986 fig425 date783 banana826 grape375
-banana429 fig62 kiwi270 cherry352 honeydew256 banana890 apple970 grape590 elderberry382 cherry886
-grape614 elderberry561 honeydew762 kiwi939 honeydew100 date670 lemon925 date31 kiwi272 kiwi652
-cherry195 fig689 lemon495 elderberry409 elderberry629 date889 date832 lemon809 fig65 lemon788
-elderberry237 grape351 grape692 kiwi846 elderberry514 honeydew794 honeydew904 date447 banana725 fig721
-banana573 banana502 elderberry260 grape775 date828 fig760 banana497 apple343 grape862 grape185
-kiwi233 banana392 lemon425 date256 date856 date401 honeydew299 elderberry639 cherry838 grape741
-banana68 fig609 honeydew484 banana456 cherry160 date762 lemon687 date936 cherry194 banana306
-date308 lemon93 grape706 honeydew482 banana442 honeydew289 apple583 apple300 banana34 grape144
-elderberry941 apple574 elderberry658 cherry897 date768 fig415 kiwi901 grape98 elderberry287 apple393
-kiwi572 grape719 apple257 grape5 banana431 grape163 date458 grape545 apple836 apple644
-kiwi343 cherry181 honeydew847 cherry195 cherry37 lemon792 banana16 lemon105 date245 apple439
-elderberry576 apple123 kiwi395 grape375 elderberry867 elderberry967 date242 honeydew86 elderberry382 date916
-apple961 lemon565 elderberry962 date965 banana168 banana616 banana703 date478 fig923 cherry19
-kiwi985 fig525 lemon141 date758 grape30 cherry346 kiwi62 kiwi418 kiwi790 lemon662
-grape582 fig818 lemon481 date815 kiwi87 elderberry34 banana772 honeydew722 kiwi317 fig475
-honeydew155 fig775 fig705 cherry428 kiwi72 cherry553 lemon105 apple514 honeydew826 grape403
-kiwi818 elderberry72 grape446 honeydew987 date686 cherry935 fig330 elderberry594 lemon37 fig239
-grape380 date97 cherry480 lemon323 lemon446 banana44 lemon0 date297 cherry813 elderberry763
-date811 fig583 elderberry509 honeydew508 fig23 elderberry39 cherry174 elderberry946 banana925 cherry443
-cherry586 honeydew776 banana390 elderberry81 apple972 cherry150 elderberry297 honeydew775 elderberry321 apple578
-lemon539 elderberry303 grape682 date296 grape132 honeydew252 fig16 banana635 apple232 elderberry139
-fig806 kiwi776 apple907 kiwi507 apple698 fig769 fig76 apple612 cherry916 date624
-fig266 grape139 banana877 date855 elderberry969 grape244 banana57 lemon854 elderberry774 elderberry622
-elderberry789 elderberry309 honeydew806 cherry122 kiwi497 cherry628 date483 banana972 fig654 elderberry794
-lemon6 elderberry264 banana56 grape171 kiwi221 cherry413 lemon100 lemon624 cherry310 banana981
-lemon923 kiwi267 elderberry866 banana859 date405 honeydew391 date27 elderberry595 kiwi806 date211
-kiwi733 cherry940 grape277 elderberry440 cherry720 kiwi233 date639 honeydew934 elderberry883 cherry19
-cherry431 elderberry946 date842 elderberry160 fig673 grape267 cherry593 elderberry375 grape514 banana688
-cherry63 banana961 fig785 kiwi147 date964 grape57 elderberry953 grape384 banana914 cherry508
-date412 apple438 apple854 honeydew842 apple905 apple284 elderberry24 cherry202 kiwi686 grape669
-fig422 cherry177 fig517 grape940 date397 elderberry475 grape219 date400 cherry88 lemon576
-kiwi604 grape129 kiwi774 grape816 fig80 apple432 honeydew31 banana151 banana905 fig282
-cherry103 cherry537 date602 banana877 lemon874 cherry398 banana505 honeydew562 fig941 grape127
-banana93 elderberry369 date643 fig342 elderberry392 banana407 honeydew805 fig898 honeydew845 cherry234
-lemon200 honeydew856 apple322 lemon691 banana467 date98 lemon295 banana162 lemon469 lemon724
-date397 kiwi910 apple635 banana745 lemon184 date714 grape415 elderberry162 cherry317 lemon880
-grape649 cherry759 banana44 cherry82 banana106 elderberry595 cherry622 honeydew91 grape644 banana355
-cherry815 date745 grape387 lemon855 apple764 elderberry166 elderberry326 cherry104 cherry726 fig26
-date749 banana408 grape253 apple842 honeydew940 fig12 lemon78 banana708 fig863 banana132
-apple837 cherry720 date236 kiwi121 fig227 lemon248 fig691 grape830 grape88 lemon144
-fig504 banana72 kiwi769 fig358 kiwi447 grape677 honeydew235 kiwi946 banana463 elderberry128
-cherry61 date751 cherry584 banana323 elderberry74 cherry512 honeydew468 fig250 kiwi628 apple251
-fig608 grape862 kiwi690 honeydew681 cherry292 elderberry927 lemon506 honeydew603 cherry462 kiwi601
-fig935 lemon462 fig427 fig592 apple659 banana399 elderberry526 elderberry507 kiwi165 cherry671
-fig262 lemon692 date565 apple872 lemon4 banana669 lemon290 apple406 apple274 elderberry180
-cherry810 apple815 honeydew804 grape303 grape466 grape51 cherry346 date904 kiwi633 honeydew291
-fig668 banana627 kiwi729 date621 banana300 fig10 kiwi6 apple470 elderberry375 cherry855
-kiwi708 lemon902 banana324 banana730 banana188 apple839 apple298 lemon750 date727 elderberry350
-honeydew230 elderberry72 lemon129 cherry128 date730 cherry975 fig255 banana118 cherry687 honeydew797
-date337 grape593 fig963 lemon163 fig240 lemon685 fig819 lemon824 honeydew952 honeydew18
-lemon826 lemon947 date535 lemon294 honeydew39 date644 cherry171 kiwi955 elderberry971 honeydew150
-cherry832 apple175 honeydew736 cherry0 date183 lemon670 grape778 lemon46 elderberry8 cherry970
-fig561 cherry108 honeydew912 cherry155 honeydew645 banana987 grape659 honeydew207 grape8 honeydew690
-apple643 grape179 kiwi527 cherry790 elderberry846 fig798 grape897 apple905 lemon683 fig421
-cherry742 lemon62 date173 kiwi177 apple400 lemon106 grape558 kiwi450 date941 honeydew973
-honeydew709 lemon927 grape530 fig38 banana784 grape307 fig753 elderberry290 date258 fig25
-honeydew707 elderberry390 cherry101 cherry881 lemon943 apple440 grape401 kiwi904 lemon49 lemon337
-apple595 apple283 grape443 grape397 grape326 grape668 lemon630 banana976 cherry45 grape82
-fig321 banana754 banana750 lemon926 date489 cherry348 lemon624 date352 elderberry607 lemon433
-fig141 apple333 date269 cherry421 apple840 kiwi268 fig616 date897 fig648 grape475
-date327 fig252 banana299 cherry766 date841 kiwi346 apple307 fig552 lemon139 lemon433
-grape172 fig152 lemon96 grape103 banana979 kiwi717 honeydew198 lemon357 grape384 grape58
-banana367 date366 kiwi428 fig650 fig516 honeydew248 kiwi859 apple812 lemon644 kiwi137
-fig283 apple407 banana395 fig794 lemon955 banana695 date603 date911 date340 lemon350
-honeydew357 cherry437 lemon251 elderberry651 fig552 cherry466 cherry252 elderberry22 banana129 kiwi153
-banana592 kiwi297 apple521 elderberry323 honeydew423 cherry64 lemon674 grape245 lemon430 date673
-elderberry761 elderberry648 elderberry906 apple645 banana237 lemon364 cherry187 elderberry644 grape102 grape931
-elderberry706 apple652 cherry118 date4 banana618 kiwi275 kiwi523 grape781 lemon10 elderberry776
-kiwi170 banana712 fig560 banana133 elderberry973 elderberry894 cherry327 apple383 lemon94 banana486
-cherry978 apple988 apple993 date822 date54 kiwi363 grape77 honeydew376 cherry99 grape487
-grape99 banana199 lemon683 fig380 cherry893 honeydew279 banana321 fig984 fig600 lemon263
-grape299 apple531 banana354 date522 apple504 kiwi47 kiwi116 grape657 grape282 apple551
-grape656 apple914 lemon925 cherry291 kiwi211 kiwi668 lemon973 kiwi51 lemon156 date216
-fig204 honeydew775 date139 kiwi961 cherry577 kiwi245 grape298 grape332 elderberry481 grape122
-elderberry447 grape632 grape825 grape695 apple271 elderberry527 lemon929 elderberry253 lemon36 grape779
-lemon858 banana625 elderberry80 fig545 fig160 grape152 date663 banana489 cherry537 cherry739
-cherry360 cherry171 honeydew204 grape812 date932 fig506 banana538 kiwi591 date213 fig709
-fig744 apple561 cherry80 date545 cherry203 cherry404 apple35 honeydew743 fig865 apple993
-apple63 honeydew60 banana678 fig659 kiwi446 elderberry931 honeydew412 banana898 honeydew61 kiwi12
-banana545 elderberry37 elderberry235 kiwi857 grape157 grape454 kiwi48 grape491 honeydew360 date738
-fig406 fig936 elderberry232 lemon182 fig763 honeydew824 cherry73 elderberry530 grape629 apple563
-apple490 lemon433 banana147 date772 cherry966 date215 cherry34 cherry720 apple72 lemon185
-apple526 lemon191 fig757 apple240 elderberry196 grape682 banana373 honeydew358 elderberry470 elderberry755
-honeydew178 date942 fig478 date471 grape168 kiwi599 banana816 date830 honeydew347 date138
-grape820 grape249 cherry539 honeydew783 date994 kiwi819 grape706 grape772 elderberry965 fig649
-honeydew508 elderberry901 lemon848 fig913 lemon373 kiwi652 fig843 date742 honeydew758 apple10
-elderberry590 honeydew473 apple33 fig859 apple659 grape569 elderberry592 date878 apple224 fig812
-grape681 fig258 honeydew211 honeydew67 honeydew692 kiwi962 fig507 honeydew105 fig418 honeydew1
-banana917 honeydew388 kiwi120 honeydew558 apple668 banana274 date241 banana57 apple464 fig517
-elderberry239 fig452 elderberry224 banana39 honeydew803 apple90 date991 apple702 banana168 apple618
-lemon378 fig745 cherry251 cherry284 apple559 lemon248 date165 date242 banana743 banana223
-apple143 date712 grape892 lemon899 elderberry12 apple21 lemon859 cherry115 grape514 date623
-honeydew523 lemon479 lemon576 grape722 lemon908 fig500 cherry649 honeydew761 lemon888 date14
-cherry72 banana899 lemon805 kiwi620 apple458 lemon455 elderberry953 elderberry704 cherry326 elderberry799
-cherry940 lemon939 kiwi279 elderberry945 elderberry161 elderberry804 elderberry280 lemon312 date228 fig818
-lemon326 date495 date284 cherry77 date970 lemon222 grape738 fig208 kiwi308 banana546
-elderberry496 grape858 fig680 apple545 lemon443 elderberry703 kiwi764 honeydew427 fig73 honeydew763
-honeydew351 fig826 date299 grape359 banana508 date146 kiwi148 honeydew681 elderberry156 apple337
-lemon23 fig968 date279 cherry167 fig532 honeydew814 fig339 elderberry279 honeydew307 honeydew140
-apple114 kiwi884 kiwi726 honeydew776 grape576 banana596 elderberry187 lemon993 banana339 lemon344
-grape480 lemon353 cherry777 fig849 date429 grape290 kiwi396 date388 cherry501 banana793
-lemon529 banana455 cherry812 elderberry326 apple700 grape73 fig257 grape297 elderberry813 kiwi277
-honeydew253 fig958 grape773 banana303 fig490 kiwi162 grape417 date692 honeydew285 apple307
-elderberry14 apple526 grape996 honeydew322 kiwi626 banana486 fig56 elderberry284 grape553 cherry312
-banana612 banana260 apple205 lemon618 banana571 elderberry363 date189 kiwi556 apple613 apple664
-cherry830 date104 lemon82 banana272 honeydew260 banana227 elderberry621 grape414 lemon762 lemon666
-elderberry178 grape619 lemon748 honeydew69 banana583 kiwi391 apple732 honeydew472 honeydew246 lemon125
-apple58 fig572 cherry401 fig27 grape906 kiwi234 date980 apple711 date762 date448
-cherry775 grape986 fig104 date104 cherry889 cherry520 elderberry415 kiwi528 banana757 kiwi182
-kiwi114 fig860 honeydew248 kiwi322 fig416 elderberry302 fig840 kiwi998 kiwi742 kiwi590
-cherry230 kiwi637 cherry679 fig18 cherry660 elderberry444 kiwi111 grape775 apple632 grape874
-apple571 honeydew573 honeydew719 kiwi223 date898 honeydew406 grape298 apple240 apple966 banana454
-fig315 grape585 lemon579 kiwi196 banana896 honeydew633 fig495 kiwi263 date703 cherry785
-fig320 honeydew994 honeydew264 kiwi405 honeydew592 date849 date422 honeydew825 grape116 kiwi705
-lemon613 apple92 apple520 fig627 date557 kiwi512 fig516 fig640 apple69 lemon647
-cherry650 banana302 date440 banana983 cherry780 lemon609 elderberry467 grape783 cherry570 kiwi986
-banana124 fig151 grape274 honeydew787 elderberry580 banana107 cherry70 lemon321 cherry830 elderberry736
-lemon761 grape728 fig541 fig989 honeydew217 kiwi434 lemon545 lemon883 lemon702 date800
-fig858 apple373 kiwi705 date518 banana387 grape80 grape934 fig643 date792 fig547
-fig17 cherry150 honeydew943 lemon376 lemon524 kiwi634 cherry602 honeydew65 grape671 kiwi138
-elderberry515 elderberry491 kiwi718 grape837 kiwi503 cherry318 fig599 fig482 elderberry131 banana138
-apple8 honeydew485 honeydew297 banana762 date229 elderberry312 cherry468 grape756 elderberry999 cherry66
-grape999 fig967 grape213 lemon539 elderberry801 honeydew4 banana574 fig461 kiwi243 lemon637
-grape109 fig628 banana407 cherry913 fig284 apple326 date27 banana965 cherry928 honeydew356
-banana252 elderberry331 date315 fig175 cherry635 grape487 grape788 grape115 honeydew851 lemon164
-lemon576 honeydew638 lemon176 date346 grape397 grape817 lemon16 elderberry27 date433 banana597
-banana237 banana409 cherry263 cherry256 honeydew633 fig946 lemon193 cherry781 fig609 fig228
-lemon430 elderberry559 date850 fig824 cherry429 honeydew62 grape638 fig482 kiwi600 cherry127
-honeydew384 elderberry566 kiwi882 banana847 lemon3 lemon445 elderberry169 kiwi864 fig86 banana150
-elderberry724 kiwi3 apple858 elderberry4 banana220 fig972 grape98 date414 apple295 fig153
-honeydew689 honeydew49 elderberry520 fig658 cherry943 lemon592 apple376 apple498 grape652 elderberry220
-honeydew24 fig900 honeydew459 apple668 banana468 banana206 banana296 kiwi118 kiwi656 kiwi377
-fig146 banana203 fig782 fig766 lemon537 elderberry798 apple174 date314 elderberry912 date877
-elderberry836 lemon682 date707 apple470 apple614 banana343 banana722 lemon155 elderberry171 date891
-honeydew436 elderberry822 grape212 honeydew58 honeydew772 banana981 fig21 fig513 apple759 fig462
-lemon653 grape26 lemon532 cherry180 apple481 fig622 lemon994 fig264 banana876 kiwi816
-date500 cherry88 fig906 apple744 kiwi664 grape282 elderberry776 lemon389 date739 grape9
-fig990 apple737 date398 honeydew319 apple372 honeydew57 cherry12 apple273 date319 elderberry626
-lemon761 banana150 grape605 banana885 kiwi68 honeydew767 cherry964 date683 date685 apple744
-honeydew767 grape344 elderberry151 fig669 grape8 date595 honeydew998 kiwi5 elderberry814 apple484
-grape538 cherry82 elderberry417 elderberry693 fig146 date127 banana56 banana378 honeydew737 lemon816
-apple89 lemon192 apple852 elderberry285 kiwi873 elderberry56 fig154 banana670 apple887 kiwi965
-honeydew218 kiwi383 fig901 apple273 fig943 date230 grape270 grape452 honeydew215 honeydew776
-fig993 grape429 grape959 kiwi991 date84 grape22 apple712 lemon134 honeydew137 honeydew811
-elderberry893 apple954 fig899 elderberry299 cherry370 fig267 cherry545 lemon741 fig286 elderberry264
-lemon330 apple292 cherry161 grape782 kiwi199 fig755 honeydew182 grape793 kiwi493 lemon1
-fig346 lemon737 grape63 kiwi190 honeydew298 lemon966 date95 honeydew955 lemon817 honeydew756
-apple973 fig126 elderberry919 honeydew527 cherry790 lemon35 cherry242 lemon879 elderberry278 lemon875
-banana560 date333 fig566 apple168 date635 date340 elderberry662 grape319 banana499 fig216
-honeydew587 grape12 banana399 date810 fig690 banana465 date140 kiwi993 honeydew898 lemon558
-cherry915 banana201 cherry622 cherry234 apple791 date616 cherry336 lemon608 apple244 banana868
-banana175 banana722 lemon665 date661 fig89 banana690 honeydew758 honeydew385 elderberry681 grape955
-lemon406 honeydew850 fig41 honeydew316 cherry646 elderberry905 lemon65 date612 apple339 cherry559
-honeydew830 lemon206 grape752 lemon886 fig659 banana326 fig437 fig843 apple811 apple434
-lemon392 kiwi311 cherry212 elderberry450 grape23 fig593 cherry621 kiwi888 banana956 date749
-honeydew432 date952 elderberry871 kiwi543 date296 honeydew649 honeydew599 lemon520 cherry155 fig97
-date625 banana616 apple105 cherry740 kiwi822 lemon337 grape84 date221 grape177 elderberry834
-apple365 cherry434 apple486 grape617 honeydew588 fig436 lemon796 grape391 apple608 kiwi636
-honeydew523 cherry776 lemon419 cherry455 banana159 fig960 kiwi679 apple755 kiwi362 honeydew774
-cherry90 grape543 apple109 cherry100 date245 fig414 banana751 kiwi84 honeydew209 date908
-honeydew852 honeydew804 honeydew424 apple590 apple103 cherry426 banana217 grape366 apple311 cherry33
-date996 date53 cherry573 lemon962 kiwi634 elderberry767 cherry116 lemon571 apple198 date50
+fbca
+fgbcdb
+dcbe
+bdegba
+ddaaccage
+daegb
+bfdg
+cc
+dgacd
+ee
+a
+ddf
+g
+g
+dgebga
+cafgcbbbd
+baggdg
+dcbde
+efbdag
+bcff
+g
+bbda
+fdegdbgbc
+dgbc
+d
+gga
+acd
+cgbbd
+fda
+e
+dgfe
+gead
+edbdedc
+gcd
+dafbaggf
+gbfeb
+ccdfa
+ggae
+adce
+gcaccf
+bedcbccf
+ebecdef
+cbfecbag
+ceddd
+ecgfge
+bafbdbd
+faggbd
+fdg
+eaef
+dbbecc
+aafc
+dbf
+ccaaab
+dcba
+begdfcdf
+afcecc
+cfdb
+dcc
+e
+dfef
+fbf
+ffeb
+efabda
+cac
+cfb
+bbf
+bggc
+cffc
+ega
+c
+bf
+gfgef
+baefe
+dgeeb
+fef
+aebe
+ebe
+df
+ee
+cd
+dadgee
+edegbff
+cfgff
+ae
+gffc
+bdd
+fceef
+bdaa
+bb
+gabedff
+cfg
+eg
+ffeag
+cae
+b
+b
+cf
+aabca
+baefe
+c
+eg
+b
+gcfee
+bdcafc
+bbcda
+gcagc
+fa
+edcef
+cfcedca
+ced
+acg
+c
+ffcddef
+gfda
+dedda
+gcaefe
+aaccd
+adfd
+bfad
+gebb
+bcdg
+gagdefb
+ebbfbc
+cad
+cddbccf
+dbg
+fbcegead
+fcd
+caeggbb
+edded
+efcf
+g
+cbfe
+d
+ffbebebe
+ddeg
+adbdgb
+cf
+fcgab
+f
+ddbdb
+dgg
+gfd
+cefefefa
+ga
+affc
+efef
+fdgabbf
+gaec
+cbcb
+fdddf
+cffdaa
+a
+eedfcgee
+cagfc
+b
+fbfbd
+fcgbebg
+bac
+ebdgf
+abcfgfccc
+fgbaebeca
+gff
+bb
+dcege
+ecdg
+dgb
+addd
+f
+cfg
+bb
+fefafdgc
+feac
+ebg
+acc
+cbfd
+baecca
+aeddb
+df
+cbd
+cfb
+b
+edfaccccbe
+ce
+ggdfbc
+begff
+feee
+aebeg
+ef
+g
+gfbc
+ffecg
+fcd
+acbd
+ebegdbe
+ggeegaae
+fe
+ecfcf
+ce
+cgbc
+bdg
+ggfgdge
+fcba
+ccebf
+fbag
+acada
+cbcef
+acfgfdb
+d
+ebcac
+ddag
+abaga
+dg
+bbace
+b
+gbabd
+fg
+ebgdccg
+bffeaabg
+cd
+afb
+db
+eca
+bbed
+bffdc
+d
+gfagedcec
+cc
+cgd
+ccafa
+gacb
+gb
+f
+bd
+efb
+gbcbba
+ccfdbga
+dcf
+c
+afgbg
+edfea
+bcddcce
+ca
+badcdeaed
+ecbfg
+a
+gcab
+ebaeec
+cbe
+faabead
+aeccee
+d
+e
+ebbd
+cdcad
+agefb
+bc
+gfg
+g
+dbc
+e
+begfeb
+cd
+agad
+eeefgeb
+dc
+a
+acb
+edgbdga
+dgfe
+bgefad
+degg
+bf
+g
+ce
+dfd
+ffbg
+ccc
+aeefafcdea
+ddefgb
+dbafcfg
+dc
+dcc
+cb
+gbgb
+bc
+ddecgea
+cceeca
+aad
+abfg
+b
+dafc
+babgc
+ab
+f
+degadc
+feafb
+fb
+adeagda
+gdg
+cdceddc
+e
+fcgad
+ge
+g
+cdgceeg
+acdegegeb
+dbg
+egb
+dddeg
+dbgae
+aacbce
+fbff
+gfbec
+cee
+aagbdgb
+dd
+ff
+cb
+adgdbee
+ggdb
+eeafca
+abagbc
+beg
+ec
+gdfaacaa
+geecabd
+cd
+eabc
+d
+ecdf
+cbcd
+ffcf
+dbdaebf
+cfdbc
+cgb
+d
+eeaf
+cbgfddd
+dd
+df
+eb
+be
+f
+f
+cebaaef
+becag
+dba
+bfeddfc
+da
+g
+dbagg
+ea
+dbgeaf
+ggddc
+fce
+cccee
+bc
+dbfc
+be
+gbec
+ddg
+d
+dgcgdg
+bcced
+cddgbe
+eed
+cad
+bb
+eabbab
+be
+db
+dgc
+afdbage
+ceaffg
+eg
+aecg
+bf
+b
+dffdaa
+ab
+edbfbde
+fgddgcbfc
+d
+edce
+eaeaa
+bdd
+ceeeg
+cbag
+ag
+cg
+baf
+aafa
+ed
+gffabbe
+gcg
+aec
+eabbg
+ecdfdc
+babcegd
+cce
+g
+ebc
+dbgbba
+gda
+agfgg
+afcc
+d
+aacadbgba
+afecdg
+eg
+adaefa
+bccdbc
+c
+cdcba
+caegf
+ag
+da
+ded
+gfebd
+afg
+aggcd
+bdccabdc
+gab
+ffcfe
+ffcdc
+dfe
+gdgf
+ad
+deb
+bbcacd
+gff
+bcg
+egfe
+a
+gaadb
+ffeg
+gedea
+abeaab
+bcbccdaagg
+afgef
+aggfbba
+ceecaccebb
+b
+bdbddg
+da
+gffe
+ggcb
+b
+cee
+fec
+caf
+e
+afd
+ggggf
+bc
+ceea
+cg
+d
+ceg
+ea
+g
+cbbdd
+bc
+daeebfbae
+eddfga
+eeb
+a
+bad
+ebdbgeceg
+baba
+cb
+bbge
+ffdaf
+gf
+ge
+bga
+fgbe
+eadefecdeef
+g
+ab
+baabe
+gbb
+ccdaed
+ddbbb
+gff
+gede
+cdgaffffe
+a
+ed
+abbc
+a
+efe
+cdfdfgb
+cge
+ccff
+d
+fgcbf
+d
+ba
+dfdcf
+dccf
+efafbc
+ga
+gdgefc
+dc
+afeda
+dceddfbbed
+gfd
+aab
+eaab
+ad
+g
+cfgaddag
+fadgfb
+abedbca
+ae
+e
+d
+ecec
+cefc
+abfcfee
+ace
+bfg
+debda
+egebd
+edcgdge
+dcbg
+dgdg
+ac
+ecdffcac
+c
+ge
+bab
+acbe
+ebcggb
+f
+bcg
+gf
+affd
+ecfg
+gdceg
+fedd
+bbfgdd
+da
+daabg
+dfc
+ge
+agad
+caef
+ed
+fagdef
+cfacbb
+gac
+ac
+gde
+caba
+cbfaf
+fdbgfb
+f
+ffb
+e
+af
+fdffeeffa
+ffdced
+geg
+a
+faa
+cafd
+aacae
+daafbaca
+ddgda
+caaadcc
+be
+eaf
+abeeaf
+eed
+cecb
+ggf
+deeb
+bbefcg
+fgabadb
+dbadbgdf
+bbda
+fd
+ede
+b
+c
+dfe
+e
+gcgd
+efggf
+bfee
+b
+afca
+fead
+dcgf
+cgdacfa
+daedbf
+ffee
+b
+d
+babcd
+gf
+baagb
+afebe
+bacd
+fdea
+gba
+gcg
+ggdeab
+ceb
+aagg
+fg
+dbecdg
+ebebg
+ag
+bddbgac
+cdcbgb
+cbfef
+defd
+edbfdacdcc
+eacggf
+egceb
+dacb
+cd
+b
+cgga
+ecab
+fddfd
+dfa
+c
+afdg
+afafcd
+b
+cdeged
+aaagdeadddf
+ec
+dacbcdbb
+b
+bcb
+gded
+bcag
+ggcce
+ccfbbd
+fag
+fgca
+dacag
+gace
+bcc
+dgc
+fbg
+adf
+a
+dcf
+bccb
+ad
+affgccf
+gb
+e
+dbg
+acg
+degca
+dac
+egagc
+aegefaff
+aaedd
+bf
+beg
+ggbac
+gag
+af
+bdbbgadfe
+ag
+deba
+bfdfcffga
+aa
+cbbe
+gcdab
+fbad
+dd
+bfc
+b
+efeefg
+geaggdbf
+cdcagf
+bac
+gec
+dfaeceaea
+ffe
+ac
+acgcaeg
+fa
+eaedfd
+badc
+fe
+b
+eeca
+beeacddf
+e
+cdfab
+ccf
+gbgaa
+adg
+dbge
+abc
+cagcbf
+cacgf
+fbbbbe
+bfab
+aa
+bfaeef
+gbf
+bffgc
+dcabbacd
+cb
+bgaf
+dbb
+bea
+fefae
+gfe
+ge
+ccg
+cccdab
+fdcg
+cg
+da
+fdf
+fb
+dggbe
+da
+ccfb
+bcfacffbc
+ebbagc
+ebf
+fabdg
+ggge
+fdg
+gd
+gbgab
+fccfgg
+cf
+ge
+gefcad
+gafbf
+gd
+deef
+cg
+cgb
+dcba
+febc
+efe
+fgdfg
+g
+dedbf
+bfbb
+d
+cdedbbg
+aacfd
+eebaaege
+dg
+dbfg
+ee
+fc
+e
+gabcg
+df
+cgfa
+ge
+bcda
+e
+eggdadd
+a
+aecfgece
+ef
+ffae
+fcceeca
+ffcg
+ee
+dcadfe
+cbfffgd
+gdbgaa
+f
+cbcdeae
+cade
+gccdca
+cgcb
+fc
+cceb
+fb
+def
+fecf
+bee
+ceaafagfeb
+f
+edage
+aeafa
+ga
+bfe
+gfe
+dgbdg
+g
+e
+fd
+cc
+dcecfgefc
+bf
+adbcd
+bf
+fc
+ab
+dfcgf
+ceeb
+ecee
+beeeb
+bfbe
+efcgeggeb
+bfc
+bea
+fe
+gdege
+e
+edgacgb
+bd
+bg
+ca
+fbbbdaga
+befga
+abdaeadb
+ggddb
+cacc
+agbafeff
+aeagf
+bcf
+dgdbefgd
+ff
+g
+gceaaddccb
+cdefaege
+a
+fecaacg
+fegg
+cgcac
+ebfadedac
+ebe
+bccbdfe
+dgafc
+cdfb
+cabfddb
+bcf
+cdgaadf
+dec
+ccad
+gbddf
+gbbe
+age
+ccf
+dbfaege
+fab
+gafe
+fcacdeagg
+ffd
+ea
+bbgag
+dgb
+ed
+daa
+eec
+e
+gadd
+eedaf
+ageg
+addeg
+cb
+fa
+feg
+baef
+c
+fcgf
+ebga
+ef
+e
+bgfefg
+agcgfad
+adfc
+baa
+cac
+dfb
+ea
+fcaba
+c
+a
+dff
+dafd
+degfbc
+dcfeff
+bef
+egae
+cag
+dbbb
+feaaa
+eb
+bef
+df
+ac
+ebacd
+baf
+bcafgc
+aae
+fe
+gddceg
+gb
+fbaadce
+fffd
+faa
+gadfdffb
+gda
+gbffgb
+dgbg
+bfebabea
+egc
+abdg
+bcbe
+ddbcd
+bbaggbefc
+dgaagf
+ge
+gcfbgg
+ebgd
+g
+aeedc
+cg
+a
+bfae
+adf
+ebgddddaadddd
+fgggc
+c
+bcb

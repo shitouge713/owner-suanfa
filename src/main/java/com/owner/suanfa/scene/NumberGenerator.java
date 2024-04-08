@@ -5,17 +5,17 @@ import com.owner.suanfa.util.FileIOUtils;
 import java.io.BufferedWriter;
 import java.util.Random;
 
-public class WordGenerator {
+public class NumberGenerator {
     private static Random r = new Random();
 
     public static void main(String[] args) {
         try {
-            BufferedWriter writer = FileIOUtils.getWriter("src/main/resources/words.txt");
-            char[] chars = {'a', 'b', 'c', 'd', 'e', 'f', 'g'};
+            BufferedWriter writer = FileIOUtils.getWriter("src/main/resources/number.txt");
+            char[] chars = {'1', '2', '3', '4', '5', '6', '7','8', '9', '0'};
             int m = chars.length;
             for (int i = 0; i < 1000; i++) {
                 StringBuilder line = new StringBuilder();
-                for (int j = 0; j < r.nextInt(16); j++) {
+                for (int j = 0; j < r.nextInt(11); j++) {
                     line.append(chars[r.nextInt(m)]);
                 }
                 if (line.length() == 0) continue;
