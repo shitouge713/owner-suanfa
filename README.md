@@ -50,6 +50,7 @@
 1. 冒泡排序，两次for循环方式【BubbleSort】
 2. 选择排序【SelectionSort】
 3. 归并排序【MergeSort】
+4. 令牌桶算法
 
 ## **场景**
 ## 排序、值TOP、次数TOP、次数、超过2次/3次、去重、查找、交集、并集
