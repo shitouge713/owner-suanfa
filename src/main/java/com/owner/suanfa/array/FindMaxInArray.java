@@ -18,7 +18,7 @@ public class FindMaxInArray {
         int[] arr2 = new int[]{1, 2, 3, 4, 5, 6, 7, 8, 9, 11, 1};
         findByStart(arr);
         findByStart(arr1);
-        findByStart(arr2);
+        findPeakElement(arr2);
     }
 
     /**
@@ -74,7 +74,7 @@ public class FindMaxInArray {
      */
     public static void findPeakElement(int[] nums) {
         int left = 0, right = nums.length - 1;
-        // 二分查找最大值
+        // 二分查找最大值，当left=right时，跳出循环
         while (left < right) {
             int mid = left + (right - left) / 2;
             if (nums[mid] < nums[mid + 1]) {
