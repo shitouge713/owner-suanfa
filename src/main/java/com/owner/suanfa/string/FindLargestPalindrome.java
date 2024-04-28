@@ -36,7 +36,6 @@ public class FindLargestPalindrome {
                 String m = str.substring(i, j + 1);
                 if (expandAroundCenter(m)) {
                     tempCenter = m;
-                    break;
                 }
             }
             compareCenter = tempCenter.length() > compareCenter.length() ? tempCenter : compareCenter;
