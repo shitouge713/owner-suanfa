@@ -8,7 +8,7 @@ import java.util.List;
  */
 public class StringInversion {
     public static void main(String[] args) {
-        method13("123213123123");
+        method3("123213123123");
     }
 
     /**
@@ -16,7 +16,7 @@ public class StringInversion {
      *
      * @param numStr
      */
-    public static void method13(String numStr) {
+    public static void method1(String numStr) {
         char[] arr = numStr.toCharArray();
         StringBuilder builder = new StringBuilder();
         for (int i = 0; i < arr.length; i++) {
@@ -30,7 +30,7 @@ public class StringInversion {
      * 只需用半次for循环
      * @param numStr
      */
-    public static void method14(String numStr) {
+    public static void method2(String numStr) {
         char[] arr = numStr.toCharArray();
         char[] newArr = new char[arr.length];
         for (int i = 0; i < arr.length/2; i++) {
@@ -46,7 +46,7 @@ public class StringInversion {
      *
      * @param numStr
      */
-    public static void method15(String numStr) {
+    public static void method3(String numStr) {
         char[] arr = numStr.toCharArray();
         int start = 0;
         int end = arr.length - 1;
@@ -59,26 +59,4 @@ public class StringInversion {
         }
         System.out.println(arr);
     }
-
-    public static int method2(Integer target) {
-        List<Integer> list = new ArrayList<>();
-        String result = "";
-        if (target > 0) {
-            while (target > 0) {
-                list.add(target % 10);
-                target = target / 10;
-            }
-        } else {
-            while (target < 0) {
-                list.add(-target % 10);
-                target = target / 10;
-            }
-            result = "-";
-        }
-        for (int i = 0; i < list.size(); i++) {
-            result += String.valueOf(list.get(i));
-        }
-        return Integer.valueOf(result);
-    }
-
 }

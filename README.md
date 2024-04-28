@@ -11,14 +11,13 @@
 
 ## **字符串**
 1. 实现字符串的反转【StringInversion】
-    方式一：一次for循环 + char数组
-    方式二：一次for循环（只循环一半） + char数组
-    方式三：使用异或操作交换字符值，通过3次异或操作，可以将两个字符位置互换
+    方式一：一次for循环（只循环一半） + char数组
+    方式二：使用异或操作交换字符值，通过3次异或操作，可以将两个字符位置互换
 2. 一个整数，它加上 100 后是一个完全平方数，加上 168 又是一个完全平方数，请问该数是多少？【SquareNumbers】
 3. 寻找字符串中不含有重复字符的最长字串【WithoutRepeatingChar】借助hashMap
 4. 判断一个数是不是回数【whetherReturnNumber】
-5. 给定一个正整数,找到由相同数字组成的下一个刚好比该数字大的数字【IntegerJustLarge】
-6. 寻找字符串中的最大回文【FindLargestPalindrome】
+5. 给定一个正整数,找到由相同数字组成的下一个刚好比该数字大的数字【IntegerJustLarge】【NextGreaterNumber】
+6. 寻找字符串中的最大回文【FindLargestPalindrome】【LongestPalindromeSubstring】
 7. 有1、2、3、4个数字，能组成多少个互不相同且无重复数字的三位数？都是多少？【CombinationNumbers】
 
 
