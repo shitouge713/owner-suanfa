@@ -6,14 +6,15 @@ package com.owner.suanfa.node;
 public class MergeTwoSortedLists {
 
     public static void main(String[] args) {
-        ListNode l1 = new ListNode(1);
-        l1.next = new ListNode(2);
-        l1.next.next = new ListNode(4);
-        l1.next.next.next = new ListNode(6);
-        ListNode l2 = new ListNode(1);
-        l2.next = new ListNode(3);
-        l2.next.next = new ListNode(4);
-        ListNode mergedList = mergeTwoLists(l1, l2);
+        ListNode node1 = new ListNode(1);
+        node1.next = new ListNode(2);
+        node1.next.next = new ListNode(4);
+        node1.next.next.next = new ListNode(6);
+
+        ListNode node2 = new ListNode(1);
+        node2.next = new ListNode(3);
+        node2.next.next = new ListNode(4);
+        ListNode mergedList = mergeTwoLists(node1, node2);
         // 打印排序后的链表
         while (mergedList != null) {
             System.out.print(mergedList.val + " ");
@@ -23,15 +24,15 @@ public class MergeTwoSortedLists {
 
     public static ListNode mergeTwoLists(ListNode l1, ListNode l2) {
         /**
-         * sentinel 用于存放最终的链表
+         * finalNode 用于存放最终的链表
          * sentinel.next表示最后的结果
          * temp 用于过程操作的链表，用于移动，指向next等操作
          * temp 要指向result
          */
         // 创建一个哨兵节点，可以简化插入操作
-        ListNode sentinel = new ListNode(0);
+        ListNode finalNode = new ListNode(0);
         // 用于追踪新链表的末尾
-        ListNode temp = sentinel;
+        ListNode temp = finalNode;
         // 当两个链表都不为空时，进行比较并合并
         while (l1 != null && l2 != null) {
             if (l1.val < l2.val) {
@@ -50,7 +51,7 @@ public class MergeTwoSortedLists {
             temp.next = l2;
         }
         // 返回哨兵节点的下一个节点，即新链表的头节点
-        return sentinel.next;
+        return finalNode.next;
     }
 
 }

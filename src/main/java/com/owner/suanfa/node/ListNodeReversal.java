@@ -10,19 +10,15 @@ public class ListNodeReversal {
         val = x;
         next = node;
     }
-    /**
-     * 递归实现
-     * @param head
-     * @return
-     */
-    public static ListNodeReversal reverseList02(ListNodeReversal head) {
-        if(head==null||head.next ==null){
-            return head;
-        }
-        ListNodeReversal prev = reverseList02(head.next);
-        head.next.next = head;
-        head.next = null;
-        return prev;
+
+    public static void main(String[] args) {
+        ListNodeReversal node5 = new ListNodeReversal(5,null);
+        ListNodeReversal node4 = new ListNodeReversal(4,node5);
+        ListNodeReversal node3 = new ListNodeReversal(3,node4);
+        ListNodeReversal node2 = new ListNodeReversal(2,node3);
+        ListNodeReversal node1 = new ListNodeReversal(1,node2);
+        ListNodeReversal rever = reverseList01(node1);
+        System.out.println(rever.toString());
     }
 
     /**
@@ -41,13 +37,20 @@ public class ListNodeReversal {
         return a;
     }
 
-    public static void main(String[] args) {
-        ListNodeReversal node5 = new ListNodeReversal(5,null);
-        ListNodeReversal node4 = new ListNodeReversal(4,node5);
-        ListNodeReversal node3 = new ListNodeReversal(3,node4);
-        ListNodeReversal node2 = new ListNodeReversal(2,node3);
-        ListNodeReversal node1 = new ListNodeReversal(1,node2);
-        ListNodeReversal rever = reverseList02(node1);
-        System.out.println(rever.toString());
+    /**
+     * 递归实现
+     * @param head
+     * @return
+     */
+    public static ListNodeReversal reverseList02(ListNodeReversal head) {
+        if(head==null||head.next ==null){
+            return head;
+        }
+        ListNodeReversal prev = reverseList02(head.next);
+        head.next.next = head;
+        head.next = null;
+        return prev;
     }
+
+
 }

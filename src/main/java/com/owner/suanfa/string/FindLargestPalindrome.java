@@ -43,6 +43,11 @@ public class FindLargestPalindrome {
         return compareCenter;
     }
 
+    /**
+     * 判断字符串是不是回文
+     * @param str
+     * @return
+     */
     public static boolean expandAroundCenter(String str) {
         boolean flag = false;
         int head = 0;

@@ -12,8 +12,14 @@ public class WhetherListNodeHasRing {
         next = node;
     }
 
-    public static boolean hasLoop3(WhetherListNodeHasRing node) {
-        return true;
+    public static void main(String[] args) {
+        WhetherListNodeHasRing node5 = new WhetherListNodeHasRing(5, null);
+        WhetherListNodeHasRing node4 = new WhetherListNodeHasRing(4, node5);
+        WhetherListNodeHasRing node3 = new WhetherListNodeHasRing(3, node4);
+        WhetherListNodeHasRing node2 = new WhetherListNodeHasRing(2, node3);
+        WhetherListNodeHasRing node1 = new WhetherListNodeHasRing(1, node2);
+        node5.next = node3;
+        System.out.println(hasLoop(node1));
     }
 
     /**
@@ -24,7 +30,7 @@ public class WhetherListNodeHasRing {
      * @param head
      * @return
      */
-    public static boolean hasLoop2(WhetherListNodeHasRing head) {
+    public static boolean hasLoop(WhetherListNodeHasRing head) {
         if (head == null || head.next == null) {
             return false;
         }
@@ -41,16 +47,6 @@ public class WhetherListNodeHasRing {
             fast = fast.next.next;
         }
         return true;
-    }
-
-    public static void main(String[] args) {
-        WhetherListNodeHasRing node5 = new WhetherListNodeHasRing(5, null);
-        WhetherListNodeHasRing node4 = new WhetherListNodeHasRing(4, node5);
-        WhetherListNodeHasRing node3 = new WhetherListNodeHasRing(3, node4);
-        WhetherListNodeHasRing node2 = new WhetherListNodeHasRing(2, node3);
-        WhetherListNodeHasRing node1 = new WhetherListNodeHasRing(1, node2);
-        node5.next = node3;
-        System.out.println(hasLoop2(node1));
     }
 
     @Override
