@@ -2,6 +2,10 @@ package com.owner.suanfa.node;
 
 /**
  * 删除链表的倒数第n个元素
+ * 快慢指针
+ * 1. 先将快指针向前移动n步
+ * 2. 快慢指针同时向后移动，直到快指针fast为空
+ * 3. 将慢指针的next节点指向慢指针.next.next
  */
 public class DeleteListNodeOfN {
     int val;

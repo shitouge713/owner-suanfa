@@ -1,6 +1,7 @@
 package com.owner.suanfa.print;
 
 /**
+ * synchronized + wait/notify实现线程间通信
  * 1、循环打印AB
  * 2、循环打印10以内的奇数偶数
  */

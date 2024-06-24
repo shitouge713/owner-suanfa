@@ -1,6 +1,7 @@
 package com.owner.suanfa.print;
 
 /**
+ * synchronized + wait/notify实现线程间通信
  * 1、循环打印ABC
  */
 public class PrintABC {
